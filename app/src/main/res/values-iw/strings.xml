@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">מבחן תפריט</string>
+    <string name="action_search">חיפוש</string>
+    <string name="action_settings">הגדרות</string>
+    <string name="hello_world">שלום עולם!</string>
+    <string name="main_message">זהו החלון הראשי</string>
+    <string name="title_activity_setting">הגדרות</string>
+</resources>
